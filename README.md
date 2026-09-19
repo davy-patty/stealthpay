@@ -1,10 +1,16 @@
 # StealthPay
 
+[![StealthPay](public/social/banner.png)](https://stealthpay.up.railway.app)
+
+## Live
+
+**Web app:** [https://stealthpay.up.railway.app](https://stealthpay.up.railway.app)
+
+Open that URL in a browser, or paste it into Nimiq Pay → Mini Apps.
+
 Private invoices. Not on-chain anonymity. StealthPay is a Nimiq Pay mini app for contractors who need to get paid without putting a public name on the invoice.
 
 The payer sees **name or organization, service rendered, and amount**. The recipient wallet stays off the invoice page. Settlement is a normal NIM (or Polygon USDT) transfer. There is no mixer, no shielded pool, and no custodial hot wallet.
-
-**Live:** https://stealthpay.up.railway.app
 
 ## What it does
 
